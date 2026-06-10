@@ -208,12 +208,7 @@ streamlit run main.py
 
 ---
 
-## 👨‍💻 Author
 
-**Sanket Borse**
-
-M.Tech Data Science
-COEP Technological University
 
 Interested in:
 
